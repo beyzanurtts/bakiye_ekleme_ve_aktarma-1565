@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\global degisken ornekleri 1565\global degisken ornekleri 1565\bin\Debug\global degisken ornekleri 1565.exe.config
+C:\Users\User\source\repos\global degisken ornekleri 1565\global degisken ornekleri 1565\bin\Debug\global degisken ornekleri 1565.exe
+C:\Users\User\source\repos\global degisken ornekleri 1565\global degisken ornekleri 1565\bin\Debug\global degisken ornekleri 1565.pdb
+C:\Users\User\source\repos\global degisken ornekleri 1565\global degisken ornekleri 1565\obj\Debug\global degisken ornekleri 1565.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\global degisken ornekleri 1565\global degisken ornekleri 1565\obj\Debug\global degisken ornekleri 1565.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\global degisken ornekleri 1565\global degisken ornekleri 1565\obj\Debug\global_degisken_ornekleri_1565.Form1.resources
+C:\Users\User\source\repos\global degisken ornekleri 1565\global degisken ornekleri 1565\obj\Debug\global_degisken_ornekleri_1565.Properties.Resources.resources
+C:\Users\User\source\repos\global degisken ornekleri 1565\global degisken ornekleri 1565\obj\Debug\global degisken ornekleri 1565.csproj.GenerateResource.cache
+C:\Users\User\source\repos\global degisken ornekleri 1565\global degisken ornekleri 1565\obj\Debug\global degisken ornekleri 1565.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\global degisken ornekleri 1565\global degisken ornekleri 1565\obj\Debug\global degisken ornekleri 1565.exe
+C:\Users\User\source\repos\global degisken ornekleri 1565\global degisken ornekleri 1565\obj\Debug\global degisken ornekleri 1565.pdb
